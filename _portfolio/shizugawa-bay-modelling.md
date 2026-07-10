@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Shizugawa Bay Biogeochemical Modelling"
+excerpt: "Developed an add-on oyster module to analyse Shizugawa Bay oysters' effects on phytoplankton and coastal dynamics."
 collection: portfolio
 ---
 
