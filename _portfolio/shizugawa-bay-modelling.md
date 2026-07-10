@@ -1,6 +1,6 @@
 ---
 title: "Shizugawa Bay Biogeochemical Modelling"
-excerpt: "Developed an add-on oyster module to analyse Shizugawa Bay oysters' effects on phytoplankton and coastal dynamics."
+excerpt: "Developed an add-on module to analyse Shizugawa Bay oysters' effects on phytoplankton and coastal dynamics."
 collection: portfolio
 ---
 
