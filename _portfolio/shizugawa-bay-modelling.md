@@ -4,7 +4,7 @@ excerpt: "Developed an add-on module to analyse the effects of Shizugawa Bay oys
 collection: portfolio
 ---
 
-# The Scientific Challenge
+# Scientific Challenge
 [Insert a short, 2-3 sentence paragraph describing the problem. Why does Shizugawa Bay need this model? What is the scientific gap?]
 
 # Methodology
