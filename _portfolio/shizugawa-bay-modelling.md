@@ -5,7 +5,11 @@ collection: portfolio
 ---
 
 # Scientific Challenge
-[Insert a short, 2-3 sentence paragraph describing the problem. Why does Shizugawa Bay need this model? What is the scientific gap?]
+[Shizugawa Bay is a significant source of seafood for Japan's market. Recent data indicates observed hypoxia 
+around oyster raft areas developing during summer. A coupled biogeochemical model aimed at 
+diagnosing factors that contribute to the degredation of the bay's water quality has been in development, 
+and it is an essential step to develop module components that integrate functions on oyster metabolism relevant 
+to bay water quality.]
 
 # Methodology
 [Explain the tech stack. Mention ROMS, Python, Fortran, or whatever tools you used. This proves your technical capability.]
