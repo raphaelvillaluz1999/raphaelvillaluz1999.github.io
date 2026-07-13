@@ -18,7 +18,7 @@ collective determining the biogeochemical features of a coupled model, COAWST. T
 modules, and the resulting NetCDF file had relevant data extracted and processed as presentable data through Python scripts.]
 
 # Key Findings
-[Insert your best chart or visualization here. Explain what it shows.]
+[Show (1) plankton data and (2) meat yield graphs.]
 
 ![Alt Text](/images/your-chart-name.png)
 
