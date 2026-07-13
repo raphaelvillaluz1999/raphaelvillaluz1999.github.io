@@ -12,8 +12,8 @@ and it is an essential step to develop module components that integrate function
 to bay water quality.]
 
 # Methodology
-[My research added two ROMS Fortran modules: one of them quantifies oyster physiological processes covered by the Dynamic Energy 
-Budget (DEB) model by Koojiman, and the other manages the progression of all the physiological states over time. Here, ROMS is a 
+[My research added two ROMS Fortran modules: one of them quantifies oyster physiological processes covered by Koojiman's Dynamic Energy 
+Budget (DEB) model, and the other manages the progression of all the physiological states over time. Here, ROMS is a 
 collective determining the biogeochemical features of a coupled model, COAWST. The latter was simulated with the added oyster 
 modules, and the resulting NetCDF file had relevant data extracted and processed as presentable data through Python scripts.]
 
