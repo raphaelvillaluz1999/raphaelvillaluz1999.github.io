@@ -5,17 +5,17 @@ collection: portfolio
 ---
 
 # Scientific Challenge
-[Shizugawa Bay is a significant source of seafood for Japan's market. Recent data indicates observed hypoxia 
+Shizugawa Bay is a significant source of seafood for Japan's market. Recent data indicates observed hypoxia 
 around oyster raft areas developing during summer. A coupled biogeochemical model aimed at 
 diagnosing factors that contribute to the degredation of the bay's water quality has been in development, 
 and it is an essential step to develop module components that integrate functions on oyster metabolism relevant 
-to bay water quality.]
+to bay water quality.
 
 # Methodology
-[My research added two ROMS Fortran modules: one of them quantifies oyster physiological processes covered by Koojiman's Dynamic Energy 
+My research added two ROMS Fortran modules: one of them quantifies oyster physiological processes covered by Koojiman's Dynamic Energy 
 Budget (DEB) model, and the other manages the progression of all the physiological states over time. Here, ROMS is a 
 collective determining the biogeochemical features of a coupled model, COAWST. The latter was simulated with the added oyster 
-modules, and the resulting NetCDF file had relevant data extracted and processed as presentable data through Python scripts.]
+modules, and the resulting NetCDF file had relevant data extracted and processed as presentable data through Python scripts.
 
 # Key Findings
 [Show (1) plankton data and (2) meat yield graphs.]
