@@ -4,7 +4,7 @@ Optimal Aquaculture Density in
 Shizugawa Bay"
 collection: publications
 permalink: /publication/2026-07-14-bachelor-thesis-shizugawa-bay
-excerpt: 'Quantitative oyster meat yield per individual for various hypothetical oyster rope density settings were obtained.'
+excerpt: 'Oyster meat yield values per individual for various hypothetical oyster rope density settings were obtained.'
 date: 2026-07-14
 venue: 'Institute of Science Tokyo (formerly Tokyo Institute of Technology)'
 paperurl: 'https://link-to-your-pdf-or-portfolio-page.pdf'
