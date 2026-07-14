@@ -7,7 +7,7 @@ permalink: /publication/2026-07-14-bachelor-thesis-shizugawa-bay
 excerpt: 'Oyster meat yield values per individual for various hypothetical oyster rope density settings were obtained.'
 date: 2026-07-14
 venue: 'Institute of Science Tokyo (formerly Tokyo Institute of Technology)'
-paperurl: 'https://link-to-your-pdf-or-portfolio-page.pdf'
+paperurl: 'mailto:villaluz.raphael@gmail.com?subject=Requesting%20Thesis%20Access'
 citation: 'Villaluz, R. (2026). *Modelling Oyster Meat Yield for Seeking
 Optimal Aquaculture Density in
 Shizugawa Bay*. Bachelor Thesis, Institute of Science Tokyo.'
@@ -41,6 +41,8 @@ consistent with expected values for oyster biological functions. In conclusion o
 meat yield occurred for the 3.0× density case, but this finding sees limited use for real-world
 application as environmental implications for each set-up and the mapping of economic profit
 with the calculated individual oyster meat yield need further long-term study.
+
+*Note: The full text of this thesis is currently under university embargo. If you are a prospective supervisor or collaborator, please [click here](mailto:villaluz.raphael@gmail.com?subject=Requesting%20Thesis%20Access) to request a copy.*
 
 # Further Information
 [Optional: You can link to your project page or GitHub repository here.]
