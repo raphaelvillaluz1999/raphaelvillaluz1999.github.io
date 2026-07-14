@@ -43,6 +43,3 @@ application as environmental implications for each set-up and the mapping of eco
 with the calculated individual oyster meat yield need further long-term study.
 
 *Note: The full text of this thesis is currently under university embargo. If you are a prospective supervisor or collaborator, please [click here](mailto:villaluz.raphael@gmail.com?subject=Requesting%20Thesis%20Access) to request a copy.*
-
-# Further Information
-[Optional: You can link to your project page or GitHub repository here.]
