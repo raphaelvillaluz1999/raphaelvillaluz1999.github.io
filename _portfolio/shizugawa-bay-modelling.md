@@ -20,8 +20,8 @@ modules, and the resulting NetCDF file had relevant data extracted and processed
 # Key Findings
 [Show (1) plankton data and (2) meat yield graphs.]
 
-![Alt Text](/images/plankton_10m_3.0x_2023-07-19T09-00-00.png)
-![Alt Text](/images/meat_yield_graph.png)
+!Figure 1(/images/plankton_10m_3.0x_2023-07-19T09-00-00.png)
+!Figure 2(/images/meat_yield_graph.png)
 
 # Technical Details
 - **Language:** Python/Fortran
