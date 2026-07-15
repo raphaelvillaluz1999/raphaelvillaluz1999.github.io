@@ -24,7 +24,7 @@ increases. [Change the figure to four frames from the same time, but from differ
 ![Figure 1](/images/plankton_10m_3.0x_2023-07-19T09-00-00.png)
 
 Oyster meat yield per individual data 30 days after juvenile oyster situation was also collected, 
-relevant for future work on market profitability analysis beneficial for farmers working at the area.
+relevant for work on oyster sale profitability analysis beneficial for farmers.
 
 ![Figure 2](/images/meat_yield_graph.png)
 
