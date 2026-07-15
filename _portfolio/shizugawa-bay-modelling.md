@@ -23,7 +23,7 @@ increases. [Change the figure to four frames from the same time, but from differ
 
 ![Figure 1](/images/plankton_10m_3.0x_2023-07-19T09-00-00.png)
 
-Oyster meat yield per individual data 30 days after juvenile oyster situation was also collected, 
+Oyster meat yield per individual data 30 days after simulation start was also collected, 
 relevant for work on oyster sale profitability analysis beneficial for Shizugawa Bay farmers.
 
 ![Figure 2](/images/meat_yield_graph.png)
