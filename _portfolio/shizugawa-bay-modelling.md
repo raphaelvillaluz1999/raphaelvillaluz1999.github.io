@@ -7,9 +7,9 @@ collection: portfolio
 # Scientific Challenge
 Shizugawa Bay is a significant source of seafood for Japan's market. Recent data indicates observed hypoxia 
 around oyster raft areas developing during summer. A coupled biogeochemical model aimed at 
-diagnosing factors that contribute to the degredation of the bay's water quality has been in development, 
-and it is an essential step to develop module components that integrate functions on oyster metabolism relevant 
-to bay water quality.
+diagnosing factors tied to rearing aquaculture, including water quality and economic profitability, 
+has been in development, and it is an essential step to develop module components that integrate functions 
+on oyster metabolism relevant to bay water quality.
 
 # Methodology
 My research added two ROMS Fortran modules: one of them quantifies oyster physiological processes covered by Koojiman's Dynamic Energy 
@@ -18,11 +18,13 @@ collective determining the biogeochemical features of a coupled model, COAWST. T
 modules, and the resulting NetCDF file had relevant data extracted and processed as presentable data through Python scripts.
 
 # Key Findings
-[Show (1) plankton data]
+Model simulations show increasing drops in plankton count at the lowest-density portions of Shizugawa Bay as oyster farm rope density 
+increases. [Change the figure to four frames from the same time, but from different density cases.]
 
 ![Figure 1](/images/plankton_10m_3.0x_2023-07-19T09-00-00.png)
 
-[and (2) meat yield graphs.]
+Oyster meat yield per individual data 30 days after juvenile oyster situation was also collected, 
+relevant for future work on market profitability analysis beneficial for farmers working at the area.
 
 ![Figure 2](/images/meat_yield_graph.png)
 
