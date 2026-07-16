@@ -21,7 +21,7 @@ modules, and the resulting NetCDF file had relevant data extracted and processed
 Model simulations show increasing drops in plankton count at the lowest-density portions of Shizugawa Bay as oyster farm rope density 
 increases. [Change the figure to four frames from the same time, but from different density cases.]
 
-![Figure 1](/images/plankton_10m_3.0x_2023-07-19T09-00-00.png)
+![Figure 1](/images/plankton_2023-07-19T_09-00-00.png)
 
 Oyster meat yield per individual data 30 days after simulation start was also collected, 
 relevant for work on oyster sale profitability analysis beneficial for Shizugawa Bay farmers.
