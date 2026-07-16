@@ -27,8 +27,8 @@ plankton count.
 ![Figure 1](/images/plankton_2023-07-19T_09-00-00.png)
 
 Oyster meat yield per individual data 30 days after simulation start was also collected. This is relevant for analysis work on oyster 
-sale profitability for Shizugawa Bay farmers as the selling price per oyster is influenced by meat yield through various interpretations 
-on how the meat yield converts into value based on the seafood cuisine landscape in Japan.
+sale profitability for Shizugawa Bay farmers as the selling price per oyster is influenced by various interpretations on how the meat 
+yield converts into value based on the seafood cuisine landscape in Japan.
 
 ![Figure 2](/images/meat_yield_graph.png)
 
