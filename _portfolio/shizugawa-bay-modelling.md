@@ -33,6 +33,6 @@ yield converts into value based on the seafood cuisine landscape in Japan.
 ![Figure 2](/images/meat_yield_graph.png)
 
 # Technical Details
-- **Language:** Python/Fortran
+- **Language:** Fortran, Python
 - **Frameworks:** [e.g., NumPy, NetCDF4]
 - **HPC/Compute:** [e.g., Local cluster / Cloud]
