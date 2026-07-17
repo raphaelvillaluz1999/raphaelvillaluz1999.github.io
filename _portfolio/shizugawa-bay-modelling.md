@@ -37,4 +37,4 @@ yield converts into value based on the seafood cuisine landscape in Japan.
 - **Scientific & Data Libraries:** `xarray`, `xroms`, `pandas`, `numpy`, `netCDF4`
 - **Visualisation & Rendering:** `matplotlib` (with `FFMpegWriter`)
 - **Pipeline & Automation:** `argparse`, `pathlib`, `glob`, `re`, `os`, `shutil`
-- **HPC/Compute:** TSUBAME (Tokyo Tech Supercomputer), MPI-based job scheduling, performance optimization for coupled-model core affinity, headless execution (`matplotlib.use("Agg")`)
+- **HPC/Compute:** TSUBAME (Tokyo Tech Supercomputer), MPI-based job scheduling, performance optimisation for coupled-model core affinity, headless execution (`matplotlib.use("Agg")`)
