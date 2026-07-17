@@ -40,14 +40,14 @@ Skills
   * Automated CSV / Excel export with configurable axes (depth, time)
   * CLI tooling and file-system automation (`argparse`, `pathlib`, `glob`, `os`, `shutil`, `re`)
 
-* **Scientific Visualization**
+* **Scientific Visualisation**
   * `matplotlib` (publication-quality static figures)
   * Time-series animation and video rendering (`FFMpegWriter`)
   * Headless / HPC-optimized batch rendering (`matplotlib.use("Agg")`)
 
 * **Workflow & Compute**
   * Reproducible analysis pipelines
-  * Headless compute-optimized processing workflows
+  * Headless compute-optimised processing workflows
 
 Publications
 ======
