@@ -33,6 +33,8 @@ yield converts into value based on the seafood cuisine landscape in Japan.
 ![Figure 2](/images/meat_yield_graph.png)
 
 # Technical Details
-- **Language:** Fortran, Python
-- **Frameworks:** [e.g., NumPy, NetCDF4]
-- **HPC/Compute:** [e.g., Local cluster / Cloud]
+- **Languages:** Fortran (ROMS Core), Python
+- **Scientific & Data Libraries:** `xarray`, `xroms`, `pandas`, `numpy`, `netCDF4`
+- **Visualisation & Rendering:** `matplotlib` (with `FFMpegWriter`)
+- **Pipeline & Automation:** `argparse`, `pathlib`, `glob`, `re`, `os`, `shutil`
+- **HPC/Compute:** TSUBAME (Tokyo Tech Supercomputer), MPI-based job scheduling, performance optimization for coupled-model core affinity, headless execution (`matplotlib.use("Agg")`)
