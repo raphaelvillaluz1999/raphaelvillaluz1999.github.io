@@ -22,12 +22,32 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**
+  * Python (scientific computing & automation)
+  * Fortran (ROMS core development)
+
+* **Ocean & Biogeochemical Modeling**
+  * COAWST-ROMS coupled model development
+  * Coastal ecosystem process modeling
+  * Model calibration, validation & sensitivity analysis
+
+* **Scientific Data Analysis**
+  * `xarray`, `xroms`, `pandas`, `numpy`
+  * `netCDF4` multi-dimensional data I/O and manipulation
+
+* **Data Pipeline & Sensor Integration**
+  * Sensor data acquisition, cleaning and formatting
+  * Automated CSV / Excel export with configurable axes (depth, time)
+  * CLI tooling and file-system automation (`argparse`, `pathlib`, `glob`, `os`, `shutil`, `re`)
+
+* **Scientific Visualization**
+  * `matplotlib` (publication-quality static figures)
+  * Time-series animation and video rendering (`FFMpegWriter`)
+  * Headless / HPC-optimized batch rendering (`matplotlib.use("Agg")`)
+
+* **Workflow & Compute**
+  * Reproducible analysis pipelines
+  * Headless compute-optimized processing workflows
 
 Publications
 ======
